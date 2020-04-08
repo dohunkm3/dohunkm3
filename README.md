@@ -10,8 +10,6 @@
 Intelligent Data Semantics Lab  
 Seoul National University
 
-* * *
-
 - - -
 
 [credit: 김도훈(2019학번) 석사 조교]
