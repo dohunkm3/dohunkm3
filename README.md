@@ -243,7 +243,7 @@ fonts
 
 ```python
 # 전체 폰트 리스트에서 특정 이름을 가진 폰트를 찾고 싶을 때 아래와 같이 실행할 수 있다. 
-# 여기서는 폰트명에 'BM'이 들어간 폰트를 찾는다.
+# 여기서는 폰트명에 'Barun'이 들어간 폰트를 찾는다.
 [font.name for font in font_manager.fontManager.ttflist if 'Barun' in font.name]
 ```
 
