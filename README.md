@@ -2,7 +2,7 @@
 
 # 시각화 : 한글 폰트 설치 및 사용
 
-## Visualization : Korean Fonts
+### Visualization : Korean Fonts
 
 * * *
 
